@@ -1,0 +1,14 @@
+D:\Problem_Solving_C#\Random_Values_Generation\bin\Debug\net8.0\random_values_generation.exe
+D:\Problem_Solving_C#\Random_Values_Generation\bin\Debug\net8.0\random_values_generation.deps.json
+D:\Problem_Solving_C#\Random_Values_Generation\bin\Debug\net8.0\random_values_generation.runtimeconfig.json
+D:\Problem_Solving_C#\Random_Values_Generation\bin\Debug\net8.0\random_values_generation.dll
+D:\Problem_Solving_C#\Random_Values_Generation\bin\Debug\net8.0\random_values_generation.pdb
+D:\Problem_Solving_C#\Random_Values_Generation\obj\Debug\net8.0\random_values_generation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problem_Solving_C#\Random_Values_Generation\obj\Debug\net8.0\random_values_generation.AssemblyInfoInputs.cache
+D:\Problem_Solving_C#\Random_Values_Generation\obj\Debug\net8.0\random_values_generation.AssemblyInfo.cs
+D:\Problem_Solving_C#\Random_Values_Generation\obj\Debug\net8.0\random_values_generation.csproj.CoreCompileInputs.cache
+D:\Problem_Solving_C#\Random_Values_Generation\obj\Debug\net8.0\random_values_generation.dll
+D:\Problem_Solving_C#\Random_Values_Generation\obj\Debug\net8.0\refint\random_values_generation.dll
+D:\Problem_Solving_C#\Random_Values_Generation\obj\Debug\net8.0\random_values_generation.pdb
+D:\Problem_Solving_C#\Random_Values_Generation\obj\Debug\net8.0\random_values_generation.genruntimeconfig.cache
+D:\Problem_Solving_C#\Random_Values_Generation\obj\Debug\net8.0\ref\random_values_generation.dll
