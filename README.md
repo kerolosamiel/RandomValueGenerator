@@ -45,32 +45,32 @@ Upon running the application, you will be greeted with a menu to choose between 
 
 #### Generate a Random Number
 
-    1. Select the option to generate a random number.
-    2. Enter the minimum and maximum values.
-    3. The application will output a random number within the specified range.
+1. Select the option to generate a random number.
+2. Enter the minimum and maximum values.
+3. The application will output a random number within the specified range.
 
 #### Generate a Random String
 
-    1. Select the option to generate a random string.
-    2. Enter the desired string length.
-    3. Choose whether to include uppercase letters, lowercase letters, numbers, and/or symbols.
-    4. The application will generate and display a random string based on your selections.
+1. Select the option to generate a random string.
+2. Enter the desired string length.
+3. Choose whether to include uppercase letters, lowercase letters, numbers, and/or symbols.
+4. The application will generate and display a random string based on your selections.
 
 ### Example
 
-    Welcome to the random values generation application :)
+Welcome to the random values generation application :)
 
-    Please select an option:
-    1- Generate random number
-    2- Generate random string
+Please select an option:
+1- Generate random number
+2- Generate random string
 
-    > 1
-    Enter the minimum value:
-    > 1
-    Enter the maximum value:
-    > 100
+> 1
+> Enter the minimum value:
+> 1
+> Enter the maximum value:
+> 100
 
-    Random Number: 42
+Random Number: 42
 
 ### Contributing
 
