@@ -78,4 +78,4 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 ### Contact
 
-For questions or suggestions, feel free to open an issue or contact the repository owner at kerolosamiel@gmail.com.
+For questions or suggestions, feel free to open an issue or contact the repository owner at kerolosamiel4@gmail.com.
